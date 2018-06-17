@@ -81,7 +81,7 @@
       <dependency>
         <groupId>org.apache.storm</groupId>
         <artifactId>storm-core</artifactId>
-        <version>0.10.0</version>
+        <version>1.1.3</version>
       </dependency>
       <dependency>
         <groupId>org.clojure</groupId>
@@ -151,7 +151,7 @@
       <dependency>
         <groupId>com.h2database</groupId>
         <artifactId>h2</artifactId>
-        <version>1.4.186</version>
+        <version>1.4.197</version>
       </dependency>
       <dependency>
         <groupId>javax.websocket</groupId>
